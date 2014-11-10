@@ -1,0 +1,18 @@
+gen-idea no-classifiers no-sbt-build-module
+exit
+assembly
+exit
+run com.coinport.tester.URLConnectionHelper
+run
+exit
+run
+exit
+run
+assembly
+exit
+assembly
+exit
+assembly
+exit
+assembly
+exit
